@@ -2,7 +2,6 @@ package com.sri.android15work.problems
 
 fun main() {
     println(secondLargest(arrayOf(10, 20, 8, 12, 30, 10, 30)))
-    println(Int.MIN_VALUE)
 }
 
 fun secondLargest(arr: Array<Int>): Int {
